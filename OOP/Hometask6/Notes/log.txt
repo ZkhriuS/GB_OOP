@@ -1,0 +1,26 @@
+мар. 15, 2023 11:13:50 AM logger.ConsoleViewLog log
+INFO: Запущено консольное приложение...
+мар. 15, 2023 11:14:32 AM logger.ConsoleViewLog log
+INFO: Работа с консольным приложением завершена.
+мар. 15, 2023 11:51:03 AM logger.LogImpl log
+INFO: Запущено консольное приложение...
+мар. 15, 2023 11:54:45 AM logger.LogImpl log
+INFO: Получено 1 объектов
+мар. 15, 2023 11:56:42 AM logger.LogImpl log
+INFO: Создан новый объект класса view.NoteViewCreator с id=1
+мар. 15, 2023 11:56:42 AM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 11:57:32 AM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 11:58:02 AM logger.LogImpl log
+INFO: Обновлен объект класса view.NoteViewCreator с id=1
+мар. 15, 2023 11:58:02 AM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 11:59:15 AM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 11:59:40 AM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 12:00:42 PM logger.LogImpl log
+INFO: Получено 2 объектов
+мар. 15, 2023 12:00:42 PM logger.LogImpl log
+INFO: Удален объект класса view.NoteViewCreator с id=1

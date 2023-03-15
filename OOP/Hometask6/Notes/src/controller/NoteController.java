@@ -10,7 +10,6 @@ import java.util.List;
 public class NoteController implements Controller{
     private Repository<Notable> repository;
 
-
     public NoteController(Repository<Notable> repository){
         this.repository = repository;
     }

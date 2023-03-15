@@ -23,11 +23,10 @@ public class ConsoleView implements View{
     }
     @Override
     public void display() {
-        Commands com = Commands.NONE;
         while (true) {
             menu();
             String command = prompt("Введите команду: ");
-            com = Commands.valueOf(command.toUpperCase(Locale.ROOT));
+            Commands com = Commands.valueOf(command.toUpperCase(Locale.ROOT));
             try {
                 switch (com) {
                     case ADD:
